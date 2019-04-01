@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPCM-REBUILD", "HPCM-REBUILD\HPCM-REBUILD.csproj", "{8D9D1612-B89A-4314-A638-1792C6A1DF6D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HPM", "HPM\HPM.vdproj", "{7AE06DD7-A0C4-4DBB-83E9-D16B1432AD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9D1612-B89A-4314-A638-1792C6A1DF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9D1612-B89A-4314-A638-1792C6A1DF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9D1612-B89A-4314-A638-1792C6A1DF6D}.Debug|x64.ActiveCfg = Debug|x64
+		{8D9D1612-B89A-4314-A638-1792C6A1DF6D}.Debug|x64.Build.0 = Debug|x64
+		{8D9D1612-B89A-4314-A638-1792C6A1DF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9D1612-B89A-4314-A638-1792C6A1DF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9D1612-B89A-4314-A638-1792C6A1DF6D}.Release|x64.ActiveCfg = Release|x64
+		{8D9D1612-B89A-4314-A638-1792C6A1DF6D}.Release|x64.Build.0 = Release|x64
+		{7AE06DD7-A0C4-4DBB-83E9-D16B1432AD08}.Debug|Any CPU.ActiveCfg = Debug
+		{7AE06DD7-A0C4-4DBB-83E9-D16B1432AD08}.Debug|x64.ActiveCfg = Debug
+		{7AE06DD7-A0C4-4DBB-83E9-D16B1432AD08}.Debug|x64.Build.0 = Debug
+		{7AE06DD7-A0C4-4DBB-83E9-D16B1432AD08}.Release|Any CPU.ActiveCfg = Release
+		{7AE06DD7-A0C4-4DBB-83E9-D16B1432AD08}.Release|x64.ActiveCfg = Release
+		{7AE06DD7-A0C4-4DBB-83E9-D16B1432AD08}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

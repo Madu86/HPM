@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="reportDataset" targetNamespace="http://tempuri.org/reportDataset.xsd" xmlns:mstns="http://tempuri.org/reportDataset.xsd" xmlns="http://tempuri.org/reportDataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="reportDataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="reportDataset" msprop:Generator_UserDSName="reportDataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="reportDataTable" msprop:Generator_TableClassName="reportDataTableDataTable" msprop:Generator_TableVarName="tablereportDataTable" msprop:Generator_TablePropName="reportDataTable" msprop:Generator_RowDeletingName="reportDataTableRowDeleting" msprop:Generator_UserTableName="reportDataTable" msprop:Generator_RowChangingName="reportDataTableRowChanging" msprop:Generator_RowEvHandlerName="reportDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="reportDataTableRowDeleted" msprop:Generator_RowEvArgName="reportDataTableRowChangeEvent" msprop:Generator_RowChangedName="reportDataTableRowChanged" msprop:Generator_RowClassName="reportDataTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="imgMap" msprop:Generator_ColumnVarNameInTable="columnimgMap" msprop:Generator_ColumnPropNameInRow="imgMap" msprop:Generator_ColumnPropNameInTable="imgMapColumn" msprop:Generator_UserColumnName="imgMap" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="imgColorLevel_1" msprop:Generator_ColumnVarNameInTable="columnimgColorLevel_1" msprop:Generator_ColumnPropNameInRow="imgColorLevel_1" msprop:Generator_ColumnPropNameInTable="imgColorLevel_1Column" msprop:Generator_UserColumnName="imgColorLevel_1" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="imgColorLevel_2" msprop:Generator_ColumnVarNameInTable="columnimgColorLevel_2" msprop:Generator_ColumnPropNameInRow="imgColorLevel_2" msprop:Generator_ColumnPropNameInTable="imgColorLevel_2Column" msprop:Generator_UserColumnName="imgColorLevel_2" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="imgColorLevel_3" msprop:Generator_ColumnVarNameInTable="columnimgColorLevel_3" msprop:Generator_ColumnPropNameInRow="imgColorLevel_3" msprop:Generator_ColumnPropNameInTable="imgColorLevel_3Column" msprop:Generator_UserColumnName="imgColorLevel_3" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="imgColorLevel_4" msprop:Generator_ColumnVarNameInTable="columnimgColorLevel_4" msprop:Generator_ColumnPropNameInRow="imgColorLevel_4" msprop:Generator_ColumnPropNameInTable="imgColorLevel_4Column" msprop:Generator_UserColumnName="imgColorLevel_4" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="doseLevel_1" msprop:Generator_ColumnVarNameInTable="columndoseLevel_1" msprop:Generator_ColumnPropNameInRow="doseLevel_1" msprop:Generator_ColumnPropNameInTable="doseLevel_1Column" msprop:Generator_UserColumnName="doseLevel_1" type="xs:int" minOccurs="0" />
+              <xs:element name="doseLevel_2" msprop:Generator_ColumnVarNameInTable="columndoseLevel_2" msprop:Generator_ColumnPropNameInRow="doseLevel_2" msprop:Generator_ColumnPropNameInTable="doseLevel_2Column" msprop:Generator_UserColumnName="doseLevel_2" type="xs:int" minOccurs="0" />
+              <xs:element name="doseLevel_3" msprop:Generator_ColumnVarNameInTable="columndoseLevel_3" msprop:Generator_ColumnPropNameInRow="doseLevel_3" msprop:Generator_ColumnPropNameInTable="doseLevel_3Column" msprop:Generator_UserColumnName="doseLevel_3" type="xs:int" minOccurs="0" />
+              <xs:element name="doseLevel_4" msprop:Generator_ColumnVarNameInTable="columndoseLevel_4" msprop:Generator_ColumnPropNameInRow="doseLevel_4" msprop:Generator_ColumnPropNameInTable="doseLevel_4Column" msprop:Generator_UserColumnName="doseLevel_4" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

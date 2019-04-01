@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HPCM-REBUILD">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Compaq\My Documents\Visual Studio 2010\Projects\HPCM-REBUILD\HPCM-REBUILD.sln">
+</Property><Property Name="Date" Value="Sunday, February 19, 2012">
+</Property><Property Name="Time" Value="15:34 PM">
+</Property></Properties><Event ErrorLevel="0" Project="HPCM-REBUILD" Source="HPCM-REBUILD\HPCM-REBUILD.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HPCM-REBUILD" Source="HPCM-REBUILD\HPCM-REBUILD.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HPCM-REBUILD.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HPCM-REBUILD.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HPCM-REBUILD" Source="HPCM-REBUILD\HPCM-REBUILD.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
