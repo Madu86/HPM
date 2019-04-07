@@ -25,7 +25,7 @@
       Feel free to use the program or adopt parts of the code. However, please cite the work as 
       follows. 
       
-      Kumara, M.M.M.S., 2013, Development of Hazard Prediction Modelfor Toxic Air Pollutants Resulting
+      Kumara, M.M.M.S., 2012, Development of Hazard Prediction Modelfor Toxic Air Pollutants Resulting
       from Terrorist Events, MSc Thesis, University of Colombo, Sri Lanka.
       
       M.M.M.S. Kumara and S. Weerasinghe, Development of short range hazard prediction
