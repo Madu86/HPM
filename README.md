@@ -15,13 +15,14 @@
       
       2) Installation
       
-      The current version (1.0.0) only runs under windows platform. We have tested it on windows xp 
-      and windows 7 versions. To install the program, simply run setup.exe and follow the instructions. 
+      The current version (1.0.0) only runs on windows platform. We have tested it on windows xp 
+      and windows 7 versions. 
+      To install the program, simply run setup.exe and follow the instructions. 
       
       3) Distribution
       
-      Feel free to use the program or adopt parts of the code. However, please cite the work as follows. 
-      
+      Feel free to use the program or adopt parts of the code. However, please cite the work as 
+      follows. 
       Kumara, M.M.M.S., Development of Hazard Prediction Modelfor Toxic Air Pollutants Resulting
       from Terrorist Events, University of Colombo, 2013.
       
