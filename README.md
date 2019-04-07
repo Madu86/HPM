@@ -5,9 +5,10 @@
       HPM is a software capable of predicting the atmospheric dispersion of chemical warfare 
       agents resulting from terrorist events in Sri Lanka. The user has to provide information 
       related to release scenario and meteorological data as input and the program simulates 
-      the dispersion and visualizes the ground level dosages on a satellite map (see user manual
-      and demo for more information). Plesae refer to Madushanka's MSc thesis for methodological 
-      details: https://github.com/Madu86/HPM/blob/master/Thesis_Final.pdf
+      the dispersion and visualizes the ground level dosages on a satellite map (see the user 
+      manual and demo: https://youtu.be/N6TukoAqg4g for more information). 
+      Plesae refer to authors's MSc thesis for methodological details:  
+      https://github.com/Madu86/HPM/blob/master/Thesis_Final.pdf
       
       The program was written in visual C# by Madushanka Manathunga as his MSc thesis project 
       during 2011-2012 under the guidance of Prof. M.S. Weerasinghe at the Department of Chemistry,
